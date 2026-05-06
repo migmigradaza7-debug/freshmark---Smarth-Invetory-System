@@ -1,2 +1,2 @@
-# freshmark---Smarth-Invetory-System
+# freshmart---Smart-Invetory-System
 Project 
